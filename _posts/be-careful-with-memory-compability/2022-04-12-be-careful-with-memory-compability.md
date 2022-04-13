@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "be careful with memory compabiltiy!"
+title:  "be careful with memory compatibility!"
 categories: memory tech
 ---
 ![vivobook]
